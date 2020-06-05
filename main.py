@@ -55,3 +55,5 @@ if __name__ == "__main__":
         array_ordenado = sort(array)
     print("El array ordenado es", array_ordenado)
 
+# COD. IGUAL AL DE AFAN
+
